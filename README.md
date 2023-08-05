@@ -8,7 +8,7 @@
 
 - ⚙️ I use daily: `.r`, `.html`, `.csv`
   
-- 🌱 Learning all about **SPSS**, **SQL**, and **Python**, 
+- 🌱 Learning all about **SPSS**, **SQL**, and **Python** 
   
 - 📫 Reach me: [camillejwashington@gmail.com]
   
